@@ -13,7 +13,7 @@ def link
 end
 
 def all_phrases
-  puts phrase
-  puts toadstool
-  puts link
+  phrase
+  toadstool
+  link
 end
