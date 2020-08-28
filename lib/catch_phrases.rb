@@ -13,7 +13,7 @@ def link
 end
 
 def all_phrases
-  "#{phrase}"
-  "#{toadstool}"
-  "#{link}"
+  all_phrases = "#{phrase} #{status} #{link}""
 end
+
+
