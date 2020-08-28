@@ -15,5 +15,5 @@ end
 def all_phrases
   "#{phrase}"
   "#{toadstool}"
-  "#{link}""
+  "#{link}"
 end
